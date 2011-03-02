@@ -17,16 +17,12 @@
 ## Example Usage
 
     $ cd /var/www/
-    s webfolder
+    $ s webfolder
     $ cd /usr/local/lib/
-    s locallib
+    $ s locallib
     $ l
-    webfolder=/var/www
-    locallib=/usr/local/lib
     $ g web<tab>
     $ g webfolder
-    $ pwd
-    /var/www
 
 ## Where Bashmarks are stored
     
